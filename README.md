@@ -38,7 +38,7 @@ Jobloom is a Flask-based web application designed to streamline job recruitment 
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/sahilmurhekar/jonloom.git
+   git clone https://github.com/sahilmurhekar/Jobloom
    cd hirecrest
 2. **Set Up a Virtual Environment:**
    ```

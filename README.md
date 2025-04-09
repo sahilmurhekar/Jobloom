@@ -38,7 +38,7 @@ Jobloom is a Flask-based web application designed to streamline job recruitment 
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/sahilmurhekar/jonloom.git
+   git clone https://github.com/sahilmurhekar/Jobloom
    cd hirecrest
 2. **Set Up a Virtual Environment:**
    ```
@@ -54,6 +54,7 @@ Jobloom is a Flask-based web application designed to streamline job recruitment 
    MONGO_URI=your-mongodb-atlas-uri
    EMAIL_USER=your-email@gmail.com
    EMAIL_PASSWORD=your-email-app-password
+   GEMINI_API_KEY=gemini-api
 5. **Set Up Upload Folder**:
    The app automatically creates static/uploads/resumes for resume storage.
 
